@@ -270,28 +270,28 @@ The project is designed to keep these areas separated into maintainable modules.
 
 ### Phase 2 — Interface
 
-* [ ] Kernel Labs dashboard
-* [ ] Sidebar navigation
-* [ ] Theme system
-* [ ] Settings interface
-* [ ] Configuration editor
-* [ ] Hotkey editor
+* [x] Kernel Labs dashboard
+* [x] Sidebar navigation
+* [x] Theme system
+* [x] Settings interface
+* [x] Configuration editor
+* [x] Hotkey editor
 
 ### Phase 3 — Development Modules
 
-* [ ] Player information
-* [ ] Pal information
-* [ ] World information
-* [ ] Debug overlay
-* [ ] Visualization widgets
+* [x] Player information
+* [x] Pal information
+* [x] World information
+* [x] Debug overlay
+* [x] Visualization widgets
 
 ### Phase 4 — Polish
 
-* [ ] Performance improvements
-* [ ] Better configuration handling
-* [ ] UI animations
-* [ ] Additional themes
-* [ ] Expanded documentation
+* [x] Performance improvements
+* [x] Better configuration handling
+* [x] UI animations
+* [x] Additional themes
+* [x] Expanded documentation
 
 ---
 
