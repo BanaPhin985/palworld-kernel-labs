@@ -25,6 +25,8 @@ Kernel Labs provides a modular overlay architecture for experimenting with custo
 * Debug information panels
 * Custom themes
 
+![visual](Data/a43b4e3d-0db5-403a-9325-b17332ace335.png)
+
 ### 👤 Player Information
 
 The player information module is designed for development and testing purposes.
