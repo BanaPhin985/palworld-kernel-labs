@@ -82,6 +82,8 @@ About
 
 ---
 
+![set](Data/se5.png)
+
 ## 🧩 Project Architecture
 
 Kernel Labs is organized into independent modules so new features can be developed without turning the entire project into one large codebase.
