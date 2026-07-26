@@ -60,6 +60,8 @@ The world module provides tools for inspecting and visualizing information durin
 * World-state panels
 * Development overlays
 
+![world](Data/671.png)
+
 ### 🎨 Custom UI
 
 Kernel Labs uses a clean interface designed around a dark developer-tool aesthetic.
